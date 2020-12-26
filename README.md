@@ -135,33 +135,29 @@ The Case of Arabic Wikipedia Talk Pages</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(70).pdf" style="text-decoration:none;">Language Informed Modeling of Code-Switched Text</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(71).pdf" style="text-decoration:none;">Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(72).pdf" style="text-decoration:none;">Named Entity Recognition on Code-Switched Data: Overview of the CALCS 2018 Shared Task</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(73).pdf" style="text-decoration:none;">Code-Switched Named Entity Recognition with Embedding Attention</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(74).pdf" style="text-decoration:none;">A Twitter Corpus for Hindi-English Code Mixed POS Tagging</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(75).pdf" style="text-decoration:none;">Detecting Code-Switching between Turkish-English Language Pair</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(76).pdf" style="text-decoration:none;">Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(77).pdf" style="text-decoration:none;">SEAME: a Mandarin-English
+Code-switching Speech Corpus in South-East Asia</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(78).pdf" style="text-decoration:none;">Multilingual Neural Network Acoustic Modelling for ASR of Under-Resourced English-isiZulu Code-Switched Speech</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(79).pdf" style="text-decoration:none;">An Analysis of a Mandarin-English Code-switching Speech Corpus: SEAME</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(80).pdf" style="text-decoration:none;">Who, When and Why: The 3 Ws of Code-Switching</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(81).pdf" style="text-decoration:none;">Word and Class Common Space Embedding for Code-switch Language Modelling</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(82).pdf" style="text-decoration:none;">Determiner-noun code-switching in Spanish heritage speakers</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Code-Switching-Papers/blob/master/cw(83).pdf" style="text-decoration:none;">Syntactic structure and social function of code-switching</a></li>
   </ul>
